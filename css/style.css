@@ -1,0 +1,43 @@
+.navbar-default{
+	background: #000000;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+#divserv{
+	border-right: 1px solid;
+	color: #41B24C;
+	height: 155px;
+}
+#colorServicio{
+	background-color: #cccccc;
+	border-bottom: 10px solid;
+	border-bottom-color: #41B24C;
+}
+#contactenos{
+	background-color: #cccccc;
+	padding-bottom: 20px; 
+}
+#letraserv{
+	fon
+}
+#titulo{
+	color: #41B24C;
+}
+.btnSuscribir{
+	background-color: #41B24C;	
+	color: #ffffff;
+	margin-top: 10px;
+}
+#vernoticias{
+	color: #41B24C;
+}
+#blogresponsive{
+	background-color: #41B24C;
+	color: #ffffff;
+	height: 70px;
+	font-size: 30px;
+}
+.blogres{
+	max-width: 100px;
+}
